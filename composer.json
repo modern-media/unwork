@@ -5,5 +5,8 @@
 		"psr-0": {
 			"ModernMedia\\": "src/"
 		}
+	},
+	"require": {
+		"doctrine/orm": "*"
 	}
 }
