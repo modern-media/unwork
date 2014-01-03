@@ -1,2 +1,5 @@
 .idea/
 .DS_Store
+
+/boot.php
+/web
