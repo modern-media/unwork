@@ -1,0 +1,9 @@
+{
+	"name": "modern-media/unwork",
+	"description": "The PHP Framework that isn't.",
+	"autoload": {
+		"psr-0": {
+			"ModernMedia\\": "src/"
+		}
+	}
+}
